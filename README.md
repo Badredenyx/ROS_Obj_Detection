@@ -109,7 +109,7 @@ To override, use ROS2 remapping or launch files with `<param>` tags.
 
 ## 🗺️ Architecture Diagram
 
-![Architecture](ROS2 nodes visualization.png)
+![Architecture](ROS2NodesVisualization.png)
 
 (Replace with your own diagram in `docs/`)
 
